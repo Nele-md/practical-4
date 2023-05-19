@@ -10,4 +10,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
+Question 2
+Guess 1
 
+Guess 2
+313,092
+Guess 3
+29%
